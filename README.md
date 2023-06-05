@@ -1,15 +1,30 @@
 # Cpp Basics - Foundational
 
-### Resources
+Questions
 
-* cpp secrets: [https://cppsecrets.com/home-page/index.php?articlecategory=1](https://cppsecrets.com/home-page/index.php?articlecategory=1)
-* Using Dynamic Lib (Apple): [https://developer.apple.com/library/archive/documentation/DeveloperTools/Conceptual/DynamicLibraries/100-Articles/UsingDynamicLibraries.html](https://developer.apple.com/library/archive/documentation/DeveloperTools/Conceptual/DynamicLibraries/100-Articles/UsingDynamicLibraries.html)
+* What is the significatnce of a .inl file in C++?
+
+<details>
+
+<summary></summary>
 
 
 
+</details>
 
+* Ans: [https://stackoverflow.com/questions/1208028/significance-of-a-inl-file-in-c](https://stackoverflow.com/questions/1208028/significance-of-a-inl-file-in-c)
+* What does #define directive do in cpp?
 
-### Questions
+<details>
 
-*
+<summary></summary>
+
+Ans: [https://learn.microsoft.com/en-us/cpp/preprocessor/hash-define-directive-c-cpp?view=msvc-170](https://learn.microsoft.com/en-us/cpp/preprocessor/hash-define-directive-c-cpp?view=msvc-170)
+
+</details>
+
+* What is a \_\_func\_\_?
+  * Ans: [https://stackoverflow.com/questions/15305310/predefined-macros-for-function-name-func](https://stackoverflow.com/questions/15305310/predefined-macros-for-function-name-func)
+* When are cpp preprocessor beneficial?
+* What are the differences between capture and pass by argument in cpp?
 * What are the differences between static and dynamic lib in cpp?
