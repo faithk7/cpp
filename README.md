@@ -2,6 +2,18 @@
 
 Questions
 
+* What are the difference between NULL and nullptr in C++?
+
+<details>
+
+<summary></summary>
+
+Ans
+
+* NULL always refer to the 0; should use nullptr after C++ 11
+
+</details>
+
 * What is the significatnce of a .inl file in C++?
 
 <details>

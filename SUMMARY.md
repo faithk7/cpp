@@ -7,3 +7,4 @@
 * [Cpp Others](cpp-others.md)
 * [Page 1](page-1.md)
 * [Resources](resources.md)
+* [Actions](actions.md)
